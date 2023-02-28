@@ -18,3 +18,4 @@ This is the boilerplate to complete the Request Header Parser Microservice proje
 
 -A request to /api/whoami should return a JSON object with your software in the software key.
 
+![complete](complete.jpg)
