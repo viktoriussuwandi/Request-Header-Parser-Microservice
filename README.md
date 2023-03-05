@@ -1,7 +1,7 @@
 # Request Header Parser Microservice
 #### Solution running on : https://replit.com/@ViktoriusSuwand/Request-Header-Parser-MicroserviceProject-5
 
-This is the boilerplate to complete the Request Header Parser Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
+This is the boilerplate to complete the Request Header Parser Microservice project. Instructions for building this project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
 
 ###  Some of additional features :
 #### -using req.header to get user language
