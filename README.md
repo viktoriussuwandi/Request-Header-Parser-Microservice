@@ -5,9 +5,9 @@ This is the boilerplate to complete the Request Header Parser Microservice proje
 https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
 
 ###  Some of additional features :
-- using req.header to get user language
-- using req.header to get user software
-- using req.ip to get user ip
+     * using req.header to get user language
+     * using req.header to get user software
+     * using req.ip to get user ip
 
 ### Test Scenario :
 - You should provide your own project, not the example URL.
