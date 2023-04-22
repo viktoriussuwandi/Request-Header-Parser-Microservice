@@ -19,4 +19,3 @@ This is the boilerplate to complete the Request Header Parser Microservice proje
 
 ### Test Result
 ![complete](complete.jpg)
-
