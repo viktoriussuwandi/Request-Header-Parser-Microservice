@@ -1,5 +1,4 @@
 # Request Header Parser Microservice
-#### Solution running on : [https://replit.com/@ViktoriusSuwand/Request-Header-Parser-MicroserviceProject-5](https://replit.com/@ViktoriusSuwand/Request-Header-Parser-MicroserviceProject-5)
 
 #### Documentation can be found on : [https://github.com/viktoriussuwandi/Request-Header-Parser-Microservice](https://github.com/viktoriussuwandi/Request-Header-Parser-Microservice)
 
